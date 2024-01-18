@@ -14,6 +14,6 @@ public class Homework10 {
                 arrayOfAllShuttles[index++] = index2;
             }
         }
-        System.out.println("All shuttle numbers: " + Arrays.toString( arrayOfAllShuttles));
+        System.out.println("All shuttle numbers: " + Arrays.toString(arrayOfAllShuttles));
     }
 }
